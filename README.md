@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kopal Jain</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **kopaljain03@gmail.com**
 
